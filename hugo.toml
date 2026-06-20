@@ -53,6 +53,11 @@ buildExpired = false
     url = '/posts/'
     weight = 10
   [[menu.main]]
+    identifier = 'categories'
+    name = '分类'
+    url = '/categories/'
+    weight = 15
+  [[menu.main]]
     identifier = 'tags'
     name = '标签'
     url = '/tags/'
