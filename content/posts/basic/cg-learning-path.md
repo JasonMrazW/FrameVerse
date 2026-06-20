@@ -17,6 +17,36 @@ categories: ["入门资源"]
 - **几何**：解析几何、三角学、四元数（旋转表示）
 - **概率统计**：蒙特卡洛积分、重要性采样（光线追踪核心）
 
+### 推荐课程
+
+| 课程 | 平台 | 说明 |
+|------|------|------|
+| 线性代数的本质 | [3Blue1Brown / B站](https://www.bilibili.com/video/BV1ys411472E) | 几何直觉讲解，强烈推荐入门第一站 |
+| 微积分的本质 | [3Blue1Brown / B站](https://www.bilibili.com/video/BV1qW411N7FU) | 直观理解导数与积分 |
+| MIT 18.06 线性代数 | [MIT OCW](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) | Gilbert Strang 经典课程 |
+| GAMES101 现代计算机图形学 | [闫令琪 / B站](https://www.bilibili.com/video/BV1X7411F744) | 含图形学所需数学速成，必看 |
+| 可汗学院 线性代数/微积分 | [Khan Academy](https://www.khanacademy.org/math) | 系统补基础，免费 |
+
+### 推荐书籍
+
+| 书籍 | 说明 |
+|------|------|
+| 《Mathematics for 3D Game Programming and Computer Graphics》 | 图形学数学圣经，覆盖向量、矩阵、四元数、光照 |
+| 《3D Math Primer for Graphics and Game Development》 | 入门友好，几何直觉强 |
+| 《Linear Algebra and Its Applications》(Gilbert Strang) | 线性代数经典教材 |
+| 《Real-Time Collision Detection》 | 几何与碰撞检测的数学实践 |
+| 《Physically Based Rendering》(PBRT) 数学章节 | 蒙特卡洛积分、采样理论 |
+
+### 推荐博客 / 网站
+
+| 资源 | 说明 |
+|------|------|
+| [Scratchapixel](https://www.scratchapixel.com/) | 从数学到渲染的完整教程，公式推导清晰 |
+| [Inigo Quilez 的文章](https://iquilezles.org/articles/) | 大神 iq 的图形数学技巧，SDF、噪声等 |
+| [Immersive Math](https://immersivemath.com/ila/) | 交互式线性代数教材，可视化操作 |
+| [Better Explained](https://betterexplained.com/) | 用直觉讲数学概念 |
+| [GraphicsCodex](https://graphicscodex.com/) | Morgan McGuire 的图形学数学参考 |
+
 ## 编程基础
 
 - **C/C++**：图形学主流语言，绝大多数引擎和工具链用 C++ 编写
