@@ -1,6 +1,6 @@
 baseURL = 'https://JasonMrazW.github.io/FrameVerse/'
 locale = 'zh-cn'
-title = '我的技术博客'
+title = 'FrameVerse | Computer Graphics Universe'
 theme = 'PaperMod'
 
 paginate = 10
@@ -15,7 +15,7 @@ buildExpired = false
 
 [params]
   env = 'production'
-  description = '记录技术学习与思考'
+  description = 'FrameVerse 帧之寰宇，专注计算机图形学领域，深耕实时渲染、着色器开发、光线追踪、游戏引擎图形与图形算法理论。'
   comments = true
   defaultTheme = 'auto'
   ShowReadingTime = true
@@ -39,12 +39,12 @@ buildExpired = false
     lang = 'zh-CN'
 
   [params.homeInfoParams]
-    Title = '你好，欢迎来到我的博客 👋'
-    Content = '这里记录我的技术学习、项目实践与思考。'
+    Title = 'FrameVerse 帧之寰宇'
+    Content = '专注计算机图形学领域，深耕实时渲染、着色器开发、光线追踪、游戏引擎图形与图形算法理论。'
 
   [[params.socialIcons]]
     name = 'github'
-    url = 'https://github.com/'
+    url = 'https://github.com/JasonMrazW'
 
 [menu]
   [[menu.main]]
