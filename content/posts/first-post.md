@@ -1,6 +1,6 @@
 ---
 title: "我的第一篇博客"
-date: 2026-06-20T10:00:00+08:00
+date: 2026-06-20T08:00:00+08:00
 draft: false
 tags: ["入门", "Hugo"]
 categories: ["随笔"]

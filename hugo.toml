@@ -13,10 +13,6 @@ buildExpired = false
   disableXML = true
   minifyOutput = true
 
-[services]
-  [services.disqus]
-    shortname = 'your-disqus-shortname'
-
 [params]
   env = 'production'
   description = '记录技术学习与思考'
@@ -28,6 +24,19 @@ buildExpired = false
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
+
+  [params.giscus]
+    repo = 'JasonMrazW/FrameVerse'
+    repoId = 'R_kgDOS_yZ0A'
+    category = 'Announcements'
+    categoryId = 'DIC_kwDOS_yZ0M4C_gh-'
+    mapping = 'pathname'
+    strict = '0'
+    reactionsEnabled = '1'
+    emitMetadata = '0'
+    inputPosition = 'bottom'
+    theme = 'preferred_color_scheme'
+    lang = 'zh-CN'
 
   [params.homeInfoParams]
     Title = '你好，欢迎来到我的博客 👋'
