@@ -31,8 +31,24 @@ categories: ["入门资源"]
 
 向量不仅可以看作一组数字，也可以理解为带有方向和长度的量。在图形学中，向量常用于表示位置、方向、法线、速度和颜色等信息。
 
-`unit vector 单位向量`：长度为1的向量，常用于表示方向。i hat, j hat, k hat 是单位向量，分别表示 x轴、y轴和 z轴的方向。
-`linear combination 线性组合`：将多个向量按比例相加，得到一个新的向量. $\vec{v}$、$\mathbf{v}$ 是向量的表示方法，分别表示向量的几何方向和数值表示。
+`unit vector 单位向量`：长度为1的向量，常用于表示方向。$\hat{i}, \hat{j}, \hat{k}$ 分别表示 x轴、y轴和 z轴的方向。
+
+`linear combination 线性组合`：将多个向量按比例相加，得到一个新的向量. 
+$$\vec{v} = i * \vec{a} + j * \vec{b}$$
+
+`span 线性组合的范围`：由多个向量按比例相加得到的所有向量的集合。
+
+通常使用point 表示向量，不用考虑箭头
+
+`linear dependence 线性依赖`：多个向量之间存在线性关系，不能独立表示。
+
+`linear independence 线性独立`：多个向量之间不存在线性关系，可以独立表示。
+
+The basic of a vector space is a set of linear independent vectors that span the full space.
+
+`basis 基`：线性独立的向量集合，可以表示空间中的所有向量。
+
+`coordinate system 坐标系`：将空间中的向量表示为基向量的线性组合。
 
 ### 矩阵
 
